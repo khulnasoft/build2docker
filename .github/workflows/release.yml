@@ -64,7 +64,7 @@ jobs:
   publish-docker:
     runs-on: ubuntu-22.04
     env:
-      DEFAULT_REGISTRY: quay.io
+      DEFAULT_REGISTRY: docker.io
       IMAGE_NAME: khulnasoft/build2docker
 
     services:
