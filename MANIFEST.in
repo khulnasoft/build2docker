@@ -1,0 +1,7 @@
+include *.md
+include LICENSE
+include setup.cfg
+recursive-include build2docker/buildpacks *
+include versioneer.py
+include build2docker/_version.py
+include build2docker/contentproviders/dataverse.json

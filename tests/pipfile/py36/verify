@@ -1,0 +1,8 @@
+#!/srv/conda/envs/kernel/bin/python
+import sys
+
+print(sys.version_info)
+assert sys.version_info[:2] == (3, 6)
+
+import pypi_pkg_test  # noqa
+import there  # noqa

@@ -1,0 +1,1 @@
+The ``build2docker`` changelog has been moved. It can be viewed online at https://build2docker.readthedocs.io/en/latest/changelog.html. In the ``build2docker`` repository, the changelog is located at ``docs/source/changelog.md``.
